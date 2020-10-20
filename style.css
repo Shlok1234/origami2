@@ -1,0 +1,12 @@
+img{
+    border : 5px solid #555;
+}
+.header{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
